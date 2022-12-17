@@ -4,7 +4,7 @@
 
 ![CI workflow](https://github.com/mercurius-js/mercurius/workflows/CI%20workflow/badge.svg)
 
-Mercurius is a [**GraphQL**](https://graphql.org/) adapter for [**Fastify**](https://www.fastify.io)
+Mercurius is a [**GraphL**](https://graphql.org/) adapter for [**Fastify**](https://www.fastify.io)
 
 Features:
 
@@ -51,7 +51,8 @@ yarn add fastify mercurius graphql
 
 The previous name of this module was [fastify-gql](http://npm.im/fastify-gql) (< 6.0.0).
 
-## Quick Start
+## Quick Star*
+
 
 ```js
 'use strict'
